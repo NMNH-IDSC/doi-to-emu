@@ -1,0 +1,7 @@
+[params]
+url = "http://{domain}:{port}"
+tenant = "test"
+username = "username"
+password = "password"
+autopage = "false"
+schema_path = "~/.xmu/schema.pl"

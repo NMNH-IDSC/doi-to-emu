@@ -1,0 +1,13 @@
+name: emurestapi
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python >= 3.11
+- pip
+- ipykernel
+- jupyter
+- requests-cache
+- pip:
+  - git+https://github.com/adamancer/xmu.git@dev
+  - git+https://github.com/adamancer/nmnh_ms_tools.git
