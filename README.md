@@ -31,7 +31,7 @@ Running the notebook
 4.  Double-click doi-to-emu.ipynb
 5.  Click Select Kernel in the upper right. A dropdown will appear under
     the search bar at the top of the window. Select Python Environments
-    \> emuapi.
+    \> emurestapi.
 
 Limitations
 -----------
