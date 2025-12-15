@@ -45,5 +45,3 @@ Limitations
 
 - Cannot find existing parties records that match author or publisher
   (possibly an issue with default query parameters)
-- Cannot import nested tables (possibly a syntax error, possibly an
-  issue with the API itself)
